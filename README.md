@@ -1,2 +1,2 @@
 # helloActions-Qt
-github Actions for Qt
+github Actions for Qt.
